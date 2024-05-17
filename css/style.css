@@ -255,4 +255,17 @@ footer p {
   }
   /* FIM RODAPE */
 
+  .contato{
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .contato div{
+    max-width: 80%;
+  }
+
+  .contato div h2{
+    font-size: 45px;
+  }
 }
